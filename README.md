@@ -1,6 +1,6 @@
 # PyBer_Analysis
 
-## Challenge Overview
+## Project Overview
 
 The purpose of this analysis was to provide PyBer with:
 -	A summary DataFrame of the ride-sharing data by city type
@@ -8,7 +8,7 @@ The purpose of this analysis was to provide PyBer with:
 -	Includes: Average fare per ride and driver
 -	A multiple-line graph showing total weekly fares for each city type
 
-## Challenge Results
+## Results
 
 The ride-sharing summary showed:
 
@@ -21,7 +21,7 @@ The ride-sharing summary showed:
 -	Urban cities had the highest total fare amount ($40,000)
 
 
-## Challenge Summary
+## Summary
 
 Using the ride-sharing summary and multiple line graph I believe PyBer could take the approaches recommended below to adjust the disparities.
 
