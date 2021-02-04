@@ -12,7 +12,10 @@ The purpose of this analysis was to provide PyBer with:
 
 The ride-sharing summary showed:
 
--	The summary shows the different city types: Rural, Suburban, Urban
+-	Urabn cities had more rides with a lower average fare and rural cities had the least amount of rides with the most expensive average fare. (Circle size correlates to number of drivers in each city)
+
+![PyBer Ride-Sharing Data](Analysis/Fig1.png)
+
 -	Rural cities have the least amount or rides (125) and drivers (78)
 -	Urban cities have the greatest number of rides (1,625) and drivers (2,405)
 -	Rural cities have the highest average fare per rider ($35) and driver ($55)
@@ -20,6 +23,24 @@ The ride-sharing summary showed:
 -	Rural had the lowest total fares amount ($4,300)
 -	Urban cities had the highest total fare amount ($40,000)
 
+![PyBer Ride-Sharing Data](Analysis/Fig8.PNG)
+
+-	The following pie charts show the percent of total fares, rides and drivers by city types 
+-	The results have showed that urban cities have the largest percent of total fares, rides and drivers 
+
+![PyBer Ride-Sharing Data](Analysis/Fig5.png)
+
+![PyBer Ride-Sharing Data](Analysis/Fig6.png)
+
+![PyBer Ride-Sharing Data](Analysis/Fig7.png)
+
+-	The line chart below shows the total fare by city type from January to May in 2019
+-	The chart trends can explain/ be explained by:
+	-	When different cities tend to use PyBer (Suburban cities usage increases close to the Spring)
+	-	Urban fares are overall higher, may be due to higher population
+	
+
+![PyBer Ride-Sharing Data](Analysis/PyBer_fare_summary.png)
 
 ## Summary
 
